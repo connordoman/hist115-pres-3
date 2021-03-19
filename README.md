@@ -14,6 +14,14 @@ _"Try and find out what you can about your country"_.
 
 [Economy of the United States](https://en.wikipedia.org/wiki/Economy_of_the_United_States)
 
+[Economic History of the United States](https://en.wikipedia.org/wiki/Economic_history_of_the_United_States#1790–2006_GDP)
+
+[GDP/GNP 1919–1994](http://www.huppi.com/kangaroo/GDPreal.htm)
+
+[Unemployment Estimates 1920–1930](https://www.ssc.wisc.edu/~gwallace/Papers/2120839.pdf)
+
+[Labor Force 1929–1939](https://www.bls.gov/opub/mlr/1948/article/pdf/labor-force-employment-and-unemployment-1929-39-estimating-methods.pdf)
+
 ### Research notes
 
 - great depression began in the U.S.
@@ -70,7 +78,37 @@ _"Try and find out what you can about your country"_.
 
 1. Can we get year by year GDP/GNP numbers? Percentage change by year?
 
+    - GDP in Millions of 1929 Dollars
+
+      ![GDP 1928–1933](img/g_d_gdp_table.png)
+
 2. Can you get employment rates? Percentage change by year? What share of the country was out of work vs. employed?
+
+    - Unemployment as a percent of civilian labor force (Leber-Gott-BLS):
+
+      - 1928: 4.2% (+0.9%)
+
+      - 1929: 3.2% (-1.0%)
+
+      - 1930: 8.7% (+5.5%)
+
+      - 1931: 15.9% (+7.2%)
+
+      - 1932: 23.6% (+7.7%)
+
+      - 1933: 24.9% (+1.3%)
+
+    - Labor force (thousands of people):
+
+      - 1929: 49,440 (1.58m unemployed)
+
+      - 1930: 50,080 (4.37m unemployed)
+
+      - 1931: 50,650 (8.05m unemployed)
+
+      - 1932: 51,250 (12.10m unemployed)
+
+      - 1933: 51,840 (12.91m unemployed)
 
 3. Did unemployment and hardship fall differently on women and men? Ethnic or regional variations?
 

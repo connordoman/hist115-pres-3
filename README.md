@@ -100,17 +100,35 @@ _"Try and find out what you can about your country"_.
 
     - Labor force (thousands of people):
 
-      - 1929: 49,440 (1.58m unemployed)
+      - 1929: 49,440 (&thickapprox; 1.58m unemployed)
 
-      - 1930: 50,080 (4.37m unemployed)
+      - 1930: 50,080 (&thickapprox; 4.37m unemployed)
 
-      - 1931: 50,650 (8.05m unemployed)
+      - 1931: 50,650 (&thickapprox; 8.05m unemployed)
 
-      - 1932: 51,250 (12.10m unemployed)
+      - 1932: 51,250 (&thickapprox; 12.10m unemployed)
 
-      - 1933: 51,840 (12.91m unemployed)
+      - 1933: 51,840 (&thickapprox; 12.91m unemployed)
 
 3. Did unemployment and hardship fall differently on women and men? Ethnic or regional variations?
+
+    - Job losses in the U.S. were less severe among women, workers in industries like food and clothing, service and sales workers, and government workers.
+
+    - Unskilled men had a higher unemployment factor.
+
+    - Young people and men over 45 had a hard time finding a job if they didn't have one.
+
+    - Those who moved rural -> urban moved back to rural.
+
+    - Birthrates fell everywhere, children were not financially feasible. Canadian Catholic women used contraception to avoid births.
+
+    - Wives might lose employment if their husband had a job.
+
+    - Rural U.S. women learned how to grow more food in their home gardens and included poultry and eggs.
+
+    - African American women quiltmakers enlarges their operations, promoted collaboration, and trained newcomers. They were created for practical use and creation was an opportunity for camaraderie, socialization, and fulfillment.
+
+    - Job losses were much more severe in light manufacturing and other inner city low-skill work.
 
 4. How did the United States try to deal with the Great Depression? Fiscal policies, social programs, or nothing?
 
@@ -124,6 +142,24 @@ _"Try and find out what you can about your country"_.
 
 5. Can we get a sense of the political and social impact of the Depression on the United States? Did some political parties gain/lose?
 
+    - The New Deal was a major win for FDR's favorability, contributing, along with WWII, to his 3 reelections.
+
+    - The New Deal created policies that last to this day, with Social Security being the most significant.
+
+    - The Democrats won easily in 1932, 34, and 36. Democrats consistently delivered on their promises. Gov't agencies were bolstered which helped people navigate the new social programs.
+
 6. Can you get a sense of the impact on popular culture? Music, movies, literature, painting? Not a typical measure of economic history but it's important. (Hobsbawm 👍🏻)
 
+    - Women famously made clothes out of flour and potato sacs, a now iconic great depression aesthetic.
+
+    - Movies were still a popular passtime throughout the week.
+
+    - _Frankenstein_, _It Happened One Night_, and _Gone With The Wind_&mdash;the highest grossing film of all time&mdash;all premeried during the Great Depression.
+
+    - If you already owned a radio, listening was free.
+
+    - FDR used fireside chat radio conversations to connect with the public about what was going on.
+
 7. When did the United States recover from the Great Depression? This could be tricky to answer.
+
+    - Recovery certainly started in 1940 when the economy mobilized for war production. Total war brought unemployment down below 10%. Businessmen ignored national debt and new taxes, allowing for greater output

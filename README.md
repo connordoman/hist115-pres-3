@@ -22,6 +22,12 @@ _"Try and find out what you can about your country"_.
 
 [Labor Force 1929–1939](https://www.bls.gov/opub/mlr/1948/article/pdf/labor-force-employment-and-unemployment-1929-39-estimating-methods.pdf)
 
+[The Depression of the 1930's and Its Origins:
+i.e.; The Causes of the Great Depression](https://www.sjsu.edu/faculty/watkins/depression.htm)
+
+[The Money Supply and the Banking System
+Before and During the Great Depression](https://www.sjsu.edu/faculty/watkins/depmon.htm)
+
 ### Research notes
 
 - great depression began in the U.S.
@@ -163,3 +169,13 @@ _"Try and find out what you can about your country"_.
 7. When did the United States recover from the Great Depression? This could be tricky to answer.
 
     - Recovery certainly started in 1940 when the economy mobilized for war production. Total war brought unemployment down below 10%. Businessmen ignored national debt and new taxes, allowing for greater output
+
+## Presentation: "Why?"
+
+I decided to look at was why the Great Depression is said to have started in the U.S. While financial inequality was an international problem at the time, it was especially evident in the United States. Overconfident spending by rich investors in the 1920s led to an excess of borrowing which, when demand dropped as common people couldn't spend money, contributed to massive bank closures, and ultimately shrank the money supply.
+
+![Great Depression Monetary Policy](./img/g_d_monetary_policy.png "M2 includes physical currencies and savings.")
+
+> _This graph shows a drop in money supply (M2) closely correlated with a drop in GDP, which indicates the amount of production has dropped._
+
+The result of this drop in demand was a cascade of hesitency and debt liquidation which led to the Wall Street Crash of 1929. Many historians regard this crash as the true beginning of the Great Depression.  Since supply exceeded demand, production dropped, which caused production labor jobs to tank. At the same time, agricultural downturn constricted labor in that industry, furthering the effects of the Depression. According to Thayer Watkins, an economist at San Jose University, had the U.S. Federal Reserve pursued a more open monetary policy by using government securites, a type of loan taken from you, paid back with interest, and backed by taxes, it would have been possible to maintain spending and dampen losses during this time, potentially preventing the Depression.

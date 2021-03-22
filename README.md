@@ -8,24 +8,24 @@ _"Try and find out what you can about your country"_.
 
 ### Useful links
 
-[Great Depression](https://en.wikipedia.org/wiki/Great_Depression)
+Wikipedia – [Great Depression](https://en.wikipedia.org/wiki/Great_Depression)
 
-[Great Depression in the United States](https://en.wikipedia.org/wiki/Great_Depression_in_the_United_States)
+Wikipedia – [Great Depression in the United States](https://en.wikipedia.org/wiki/Great_Depression_in_the_United_States)
 
-[Economy of the United States](https://en.wikipedia.org/wiki/Economy_of_the_United_States)
+Wikipedia - [Economy of the United States](https://en.wikipedia.org/wiki/Economy_of_the_United_States)
 
-[Economic History of the United States](https://en.wikipedia.org/wiki/Economic_history_of_the_United_States#1790–2006_GDP)
+Wikipedia - [Economic History of the United States](https://en.wikipedia.org/wiki/Economic_history_of_the_United_States#1790–2006_GDP)
 
-[GDP/GNP 1919–1994](http://www.huppi.com/kangaroo/GDPreal.htm)
+U.S. Department of Commerce – [GDP/GNP 1919–1994](http://www.huppi.com/kangaroo/GDPreal.htm)
 
-[Unemployment Estimates 1920–1930](https://www.ssc.wisc.edu/~gwallace/Papers/2120839.pdf)
+Smiley, Gene – [Unemployment Estimates 1920–1930](https://www.ssc.wisc.edu/~gwallace/Papers/2120839.pdf)
 
-[Labor Force 1929–1939](https://www.bls.gov/opub/mlr/1948/article/pdf/labor-force-employment-and-unemployment-1929-39-estimating-methods.pdf)
+U.S. Bureau of Labor Statistics – [Labor Force 1929–1939](https://www.bls.gov/opub/mlr/1948/article/pdf/labor-force-employment-and-unemployment-1929-39-estimating-methods.pdf)
 
-[The Depression of the 1930's and Its Origins:
+Watkins, Thayer – [The Depression of the 1930's and Its Origins:
 i.e.; The Causes of the Great Depression](https://www.sjsu.edu/faculty/watkins/depression.htm)
 
-[The Money Supply and the Banking System
+Watkins, Thayer – [The Money Supply and the Banking System
 Before and During the Great Depression](https://www.sjsu.edu/faculty/watkins/depmon.htm)
 
 ### Research notes
@@ -94,7 +94,7 @@ Before and During the Great Depression](https://www.sjsu.edu/faculty/watkins/dep
 
       - 1928: 4.2% (+0.9%)
 
-      - 1929: 3.2% (-1.0%)
+      - 1929: 3.2% (–1.0%)
 
       - 1930: 8.7% (+5.5%)
 
